@@ -1,0 +1,11 @@
+{
+	"name": "ebemeto",
+		"short_name": "ebemeto",
+		"description": "Cukorbetegség",
+	"start_url": ".",
+	"background_color": "#FFFFFF",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#FFFFFF",
+	"version": "1.0"
+}

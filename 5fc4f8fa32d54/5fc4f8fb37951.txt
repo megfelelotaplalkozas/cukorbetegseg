@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>Error 404 </title>
+</head>
+<body>
+    <h2>HTTP ERROR: 404</h2>
+        <p>Problem accessing /404. Reason:</p>
+        <pre>Not Found</pre>
+    <hr>
+    <p>
+        <a href="https://ebemeto.company.site/">&lt; Return to home page</a>
+    </p>
+</body>
+</html>
